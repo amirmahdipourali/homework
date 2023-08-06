@@ -1,0 +1,8 @@
+a=(input("enter ykan: "))
+b=(input("enter dahgan: "))
+c=(input("enter sadgan: "))
+d=(input("enter heazargan: "))
+print(a)
+print(b+a)
+print(c+b+a)
+print(d+c+b+a)
