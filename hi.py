@@ -1,1 +1,0 @@
-print('hello beautiful world and all who live in it')
