@@ -1,0 +1,13 @@
+mydict={1:11,
+        2:22,
+        3:33,
+        4:44
+}
+mydict.update({5:'e'})
+new_dict=mydict.copy()
+print(new_dict)
+print(mydict.get(3))
+num=mydict.pop(2)
+print(102949477424+num)
+mydict.clear()
+print(mydict)
