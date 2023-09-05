@@ -9,3 +9,6 @@ https://github.com/amirmahdipourali/homework/blob/main/session7/numbers%20in%20t
 ##is it palindrone
 https://github.com/amirmahdipourali/homework/blob/main/session7/palindrone.py
 ![image](https://github.com/amirmahdipourali/homework/assets/140058795/2e1d19a8-ba16-423e-9dd4-e400fb5a613a)
+and the rest are mathods 
+https://github.com/amirmahdipourali/homework/blob/main/session7/extend.py
+https://github.com/amirmahdipourali/homework/blob/main/session7/count.py
