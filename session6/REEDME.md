@@ -13,3 +13,5 @@ https://github.com/amirmahdipourali/homework/blob/main/session6/sara%20is%20gone
 ## give it a big text it wiil replace the speces with *
 https://github.com/amirmahdipourali/homework/blob/main/session6/spece.py
 ![image](https://github.com/amirmahdipourali/homework/assets/140058795/e523f4cf-ecd1-4c7b-9033-ee760df83462)
+and the other one is jast mathods
+https://github.com/amirmahdipourali/homework/blob/main/session6/mathods.py
